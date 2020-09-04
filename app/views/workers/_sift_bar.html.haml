@@ -1,7 +1,9 @@
 .sift-main 
   .sift-nav
-    .sift-nav__left-title Worker App
-    .sift-nav__left-name 
+    %sift-nav__left-title Worker App
+    %sift-nav__left-name 
       = current_user.name
-    .sift-nav__right-register　新規登録
-    .sift-nav__right-login　ログイン
+    -# %sift-nav__right-register
+    -#   = link_to edit_user_path, class:"新規登録" do
+    -# %sift-nav__right-login
+    -#   = link_to root_path, class:"ログイン" do
