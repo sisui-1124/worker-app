@@ -11,7 +11,7 @@ Things you may want to cover:
   
 *  Overview
 
-    仕事の出勤した際の打刻を記録して勤怠管理を行う。アプリです。
+    仕事に出勤した際の打刻を記録して勤怠管理を行う。アプリです。
 
 * System dependencies
 
