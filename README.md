@@ -10,6 +10,7 @@ Things you may want to cover:
   rails version 5.0.7.2
   
 *  Overview
+
   仕事の出勤した際の打刻を記録して勤怠管理を行う。アプリです。
 
 * System dependencies
