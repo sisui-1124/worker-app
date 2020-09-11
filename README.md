@@ -1,16 +1,31 @@
-.アプリ名 
-  worker.app
+# Worker-app
 
-.概要
-  打刻機能、ユーザー登録機能
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-.制作背景（意図）
-会社出勤時の紙面での勤怠管理が主だったので、その作業をもっと効率よく出来ないかと思い、アプリを作成しました。
+Things you may want to cover:
 
-.DEMO
+* Ruby version
+  
+  rails version 5.0.7.2
 
-.実装予定の内容
-現在打刻機能しかないため、グループ作成機能を使ってグループでの管理ができるようにしたい。
+* Overview
+  
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
 
 .DB設計
 ## usersテーブル
