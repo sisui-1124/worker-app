@@ -1,56 +1,18 @@
-# Worker-app
+## Worker-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 機能のご紹介
 
-Things you may want to cover:
+# 主な機能
+・仕事で使う打刻管理アプリです。
+・グループ機能もあり、部署ごとに分けることも出来ます。
 
-* Ruby version
-  
-  rails version 5.0.7.2
+# その他機能
+・打刻機能
+・ユーザー登録/ログイン/編集/退会機能
+・グループ登録/編集/退会機能
 
-* Overview
-  
-* System dependencies
+# 使用技術
 
-* Configuration
+# 言語・フレームワーク・インフラ
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-.DB設計
-## usersテーブル
-|Column|Type|Options|
-|------|----|-------|
-|name  |string|null: false|
-|email |string|null: false|
-|ebcrypted_password|string|false|
-## Association
-- has_many :groups
-- has_many :groups_users
-
-## groupsテーブル
-|Column|Type|Options|
-|------|----|-------|
-|name|string|null: false|
-# Association
-- has_many :users
-- has_many :groups_users
-
-## groups_usersテーブル
-|Column|Type|Options|
-|------|----|-------|
-|user|integer|null: false, foreign_key: true|
-|group|integer|null: false, foreign_key: true|
-### Association
-- belongs_to :user
-- belongs_to :group
+# 今後実装機能
