@@ -3,12 +3,12 @@
 
 # 機能のご紹介
 ## トップ画面
-  https://gyazo.com/a7f167cb60920889700735b450a36ee1
+ ! [](https://gyazo.com/a7f167cb60920889700735b450a36ee1)
 
 ## 新規登録画面
   https://gyazo.com/4b49ab86591d26d7e74803a473554991
 
-## ループ作成画面
+## グループ作成画面
   https://gyazo.com/08aa28cff81a1c060f605815dd27ee48
 
 ## 主な機能
