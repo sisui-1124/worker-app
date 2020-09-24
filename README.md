@@ -5,7 +5,7 @@
 
 # 機能のご紹介
 ## トップ画面
- ! [](https://gyazo.com/a7f167cb60920889700735b450a36ee1)
+ ! [](https://pixabay.com/get/57e2d54a4c56ac14f6d1867dda353678153fd7e65559714b_1920.jpg?attachment=)
 
 ## 新規登録画面
   https://gyazo.com/4b49ab86591d26d7e74803a473554991
