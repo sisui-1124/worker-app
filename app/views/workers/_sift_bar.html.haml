@@ -2,6 +2,12 @@
   .sift-nav
     .sift-nav__left-title Worker App
     .sift-nav__left-name 
-      = current_user.name
-    .sift-nav__right-register　新規登録
-    .sift-nav__right-login　ログイン
+      = current_user.name 
+    .sift-nav__right-register
+      = link_to new_group_url  do
+        = icon('fas', 'pen-square', class: 'icon')
+    .sift-nav__right-login
+      = link_to edit_user_path(current_user) do
+        = icon('fas', 'cog', class: 'icon')
+    -# .sift-nav__right-group
+    -#   = link_to group_messages_path(group) do

@@ -1,30 +1,39 @@
-# Woker-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Worker-app
 
-Things you may want to cover:
+# 機能のご紹介
+## トップ画面
+  https://gyazo.com/a7f167cb60920889700735b450a36ee1
 
-* Ruby version
-  
-  rails version 5.0.7.2
-  
-*  Overview
+## 新規登録画面
+  https://gyazo.com/4b49ab86591d26d7e74803a473554991
 
-    仕事に出勤した際の打刻を記録して勤怠管理を行う。アプリです。
+## ループ作成画面
+  https://gyazo.com/08aa28cff81a1c060f605815dd27ee48
 
-* System dependencies
+## 主な機能
+- 仕事で使う打刻管理アプリです。
+- グループ機能もあり、部署ごとに分けることも出来ます。
 
-* Configuration
+## その他機能
+- 打刻機能
+- ユーザー登録/ログイン/編集/退会機能
+- グループ登録/編集/退会機能
 
-* Database creation
+## 使用技術
 
-* Database initialization
+## 言語・フレームワーク
+### バックエンド
+- ruby on rails
 
-* How to run the test suite
+### フロントエンド
+- html
+- css
+- JavaScript
+- JQuery
 
-* Services (job queues, cache servers, search engines, etc.)
+## 今後実装機能
+- 
+-
 
-* Deployment instructions
-
-* ...
+### URL

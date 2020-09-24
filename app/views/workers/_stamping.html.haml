@@ -1,3 +1,14 @@
+.messages
+  = render @messages
+
 .stamping-main
-  = link_to edit_user_path(current_user) do
-          = icon('fas', 'cog', class: 'icon')
+  .stamping-form
+    = form_for [@group, @message] do |f|
+      = f.text_field :content, class: 'form__message', placeholder: 'type a message'
+    .stamping-form-main
+      .stamping-form-main__input-box
+        = f.label :image, class: 'form__mask__image' do
+          = icon('fas', 'image', class: 'icon')
+          = f.file_field :image, class: 'hidden'
+        = f.submit 'Send', class: 'form__submit'
+        
