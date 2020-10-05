@@ -1,7 +1,7 @@
 
 # Worker-app
 
-- [ ] https://sozai-good.com/download?id=1887&type=1&subnumber=0&extention=jpg
+https://sozai-good.com/download?id=1887&type=1&subnumber=0&extention=jpg
 
 
 # 機能のご紹介
