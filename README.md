@@ -1,7 +1,7 @@
 
 # Worker-app
 
-![](office-1209640_1920.jpg)
+![ ] (https://sozai-good.com/download?id=1887&type=1&subnumber=0&extention=jpg)
 
 # 機能のご紹介
 ## トップ画面
@@ -35,7 +35,7 @@
 - JQuery
 
 ## 今後実装機能
-- 
--
+- 残業機能
+- 勤務変更機能
 
 ### URL
