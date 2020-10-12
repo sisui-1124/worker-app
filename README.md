@@ -5,13 +5,13 @@
 
 # 機能のご紹介
 ## トップ画面
- ! [](https://pixabay.com/get/57e2d54a4c56ac14f6d1867dda353678153fd7e65559714b_1920.jpg?attachment=)
+ ! [](http://localhost:3000/)
 
 ## 新規登録画面
-  https://gyazo.com/4b49ab86591d26d7e74803a473554991
+ ! [](http://localhost:3000/groups/new)
 
 ## グループ作成画面
-  https://gyazo.com/08aa28cff81a1c060f605815dd27ee48
+  ![](http://localhost:3000/users/4/edit)
 
 ## 主な機能
 - 仕事で使う打刻管理アプリです。
