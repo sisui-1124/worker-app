@@ -1,7 +1,7 @@
 
 # Worker-app
 
-![ ] (https://sozai-good.com/download?id=1887&type=1&subnumber=0&extention=jpg)
+![ ] (https://liginc.co.jp/wp-content/uploads/2020/04/photo_ac_sample.jpg)
 
 # 機能のご紹介
 ## トップ画面
