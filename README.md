@@ -1,7 +1,7 @@
 
 # Worker-app
 
-![ ] (https://liginc.co.jp/wp-content/uploads/2020/04/photo_ac_sample.jpg)
+![ ] (https://unsplash.com/photos/kLfkVa_4aXM)
 
 # 機能のご紹介
 ## トップ画面
