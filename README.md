@@ -1,7 +1,7 @@
 
 # Worker-app
 
-![ ] (https://images.unsplash.com/photo-1593642634367-d91a135587b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
+![パソコン] (cropped-view-of-hands-typing-on-laptop_1262-3196.jpg)
 
 # 機能のご紹介
 ## トップ画面
