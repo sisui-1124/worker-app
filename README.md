@@ -1,7 +1,7 @@
 
 # Worker-app
 
-![パソコン] (https://raw.githubusercontent.com/sisui-1124/worker-app/master/cropped-view-of-hands-typing-on-laptop_1262-3196.jpg)
+![パソコン](https://raw.githubusercontent.com/sisui-1124/worker-app/master/cropped-view-of-hands-typing-on-laptop_1262-3196.jpg)
 
 # 機能のご紹介
 ## トップ画面
