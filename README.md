@@ -5,7 +5,7 @@
 
 # 機能のご紹介
 ## トップ画面
- ! [](http://localhost:3000/)
+ ![](http://localhost:3000/)
 
 ## 新規登録画面
   https://gyazo.com/4b49ab86591d26d7e74803a473554991
