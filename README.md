@@ -1,11 +1,12 @@
 
 # Worker-app
 
-![ ] (https://sozai-good.com/download?id=1887&type=1&subnumber=0&extention=jpg)
+![パソコン](https://raw.githubusercontent.com/sisui-1124/worker-app/master/cropped-view-of-hands-typing-on-laptop_1262-3196.jpg)
 
 # 機能のご紹介
 ## トップ画面
- ! [](http://localhost:3000/)
+
+ ![](http://localhost:3000/)
 
 ## 新規登録画面
  ! [](http://localhost:3000/groups/new)
