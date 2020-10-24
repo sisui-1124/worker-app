@@ -5,14 +5,13 @@
 
 # 機能のご紹介
 ## トップ画面
-
- ![](http://localhost:3000/)
+ ![トップ](http://localhost:3000/)
 
 ## 新規登録画面
- ! [](http://localhost:3000/groups/new)
+ ![ユーザー](https://gyazo.com/4b49ab86591d26d7e74803a473554991)
 
 ## グループ作成画面
-  ![](http://localhost:3000/users/4/edit)
+ ![グループ](https://gyazo.com/08aa28cff81a1c060f605815dd27ee48)
 
 ## 主な機能
 - 仕事で使う打刻管理アプリです。
