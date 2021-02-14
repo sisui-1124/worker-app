@@ -13,17 +13,19 @@
   width: 100%;
   background-color: green;
   display: flex;
-  font-size: 32px;
-  color: white;
+  font-size: 50px;
+  color:black;
 }
 
 .sift-nav__left-name{
-  display: flex;
+  margin-left: 800px;
+  font-size: 50px;
+  color: white;
 }
 .sift-nav__right-register{
-  display: flex;
+  padding-left: 30px;
 }
 
 .sift-nav__right-login{
-  display: flex;
+  padding-left: 30px;
 }
