@@ -1,5 +1,11 @@
-.messages
-  = render @messages
+.main-chat
+  .main-header
+    .left-box 
+      .currrent-group 
+        = @group.name
+      .menber-list 
+  .messages
+    = render @messages
 
   .form
     = form_for [@group, @message] do |f|

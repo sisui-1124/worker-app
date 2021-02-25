@@ -1,6 +1,6 @@
 .wrapper{
   width: 100%;
-  hei.main-chat {
+  .main-chat {
     width: calc(100vw - 300px);
     height: 100vh;
   }  
@@ -94,8 +94,7 @@
     border-style: none;
     background-color: white;
     line-height: 50px;
-    width: 100%; 
-  
+    width: 100%;  
   }
   
   .label {
@@ -135,32 +134,8 @@
   .hidden {
     display: none;
     position: absolute;
-  }ght: 886px;
-  background-color:white;
-}
-.sift-main{
-  height: 500px;
-
-  background-color: white;
-}
-.sift-nav{
-  height:86px;
-  width: 100%;
-  background-color: green;
-  display: flex;
-  font-size: 50px;
-  color:black;
-}
-
-.sift-nav__left-name{
-  margin-left: 800px;
-  font-size: 50px;
-  color: white;
-}
-.sift-nav__right-register{
-  padding-left: 30px;
-}
-
-.sift-nav__right-login{
-  padding-left: 30px;
+    height: 886px;
+    background-color:white;
+  }
+  
 }
