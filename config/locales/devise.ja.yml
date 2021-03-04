@@ -52,11 +52,11 @@ ja:
         subject: メールアドレス確認メール
       email_changed:
         greeting: こんにちは、%{recipient}様。
-        message: あなたのメール変更（%{email}）のお知らせいたします。
+        messege: あなたのメール変更（%{email}）のお知らせいたします。
         subject: メール変更完了。
       password_change:
         greeting: "%{recipient}様"
-        message: パスワードが再設定されたことを通知します。
+        messege: パスワードが再設定されたことを通知します。
         subject: パスワードの変更について
       reset_password_instructions:
         action: パスワード変更
@@ -69,7 +69,7 @@ ja:
         action: アカウントのロック解除
         greeting: "%{recipient}様"
         instruction: アカウントのロックを解除するには下のリンクをクリックしてください。
-        message: ログイン失敗が繰り返されたため、アカウントはロックされています。
+        messege: ログイン失敗が繰り返されたため、アカウントはロックされています。
         subject: アカウントの凍結解除について
     omniauth_callbacks:
       failure: "%{kind} アカウントによる認証に失敗しました。理由：（%{reason}）"
@@ -131,7 +131,7 @@ ja:
       send_paranoid_instructions: アカウントが見つかった場合、アカウントの凍結解除方法を数分以内にメールでご連絡します。
       unlocked: アカウントを凍結解除しました。
   errors:
-    messages:
+    messeges:
       already_confirmed: は既に登録済みです。ログインしてください。
       confirmation_period_expired: の期限が切れました。%{period} までに確認する必要があります。 新しくリクエストしてください。
       expired: の有効期限が切れました。新しくリクエストしてください。

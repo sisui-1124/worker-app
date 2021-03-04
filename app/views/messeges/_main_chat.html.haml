@@ -4,12 +4,12 @@
       .currrent-group 
         = @group.name
       .menber-list 
-  .messages
-    = render @messages
+  .messeges
+    = render @messeges
 
   .form
-    = form_for [@group, @message] do |f|
-      = f.text_field :content, class: 'form__message', placeholder: 'type a message'
+    = form_for [@group, @messege] do |f|
+      = f.text_field :content, class: 'form__messege', placeholder: 'type a messege'
       .form__mask
         = f.label :image, class: 'form__mask__image' do
           = icon('fas', 'image', class: 'icon')

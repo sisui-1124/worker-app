@@ -1,0 +1,11 @@
+.messege
+  .upper-messege
+    .upper-messege__user-name
+      = messege.user.name
+    .upper-messege__date
+      = messege.created_at.strftime("%Y年%m月%d日 %H時%M分")
+  .lower-messege
+    - if messege.content.present?
+      %p.lower-messege__content
+        = messege.content
+    = image_tag messege.image.url, class: 'lower-messege__image' if messege.image.present?
