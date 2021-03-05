@@ -2,7 +2,7 @@
 ja:
   activerecord:
     errors:
-      messeges:
+      messages:
         record_invalid: 'バリデーションに失敗しました: %{errors}'
         restrict_dependent_destroy:
           has_one: "%{record}が存在しているので削除できません"
@@ -108,7 +108,7 @@ ja:
       year: 年
   errors:
     format: "%{attribute}%{messege}"
-    messeges:
+    messages:
       accepted: を受諾してください
       blank: を入力してください
       confirmation: と%{attribute}の入力が一致しません

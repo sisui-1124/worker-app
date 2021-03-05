@@ -40,17 +40,17 @@
     }
   }
   
-  .messeges {
+  .messages {
     height: calc(90vh - 190px);
     background-color: #fafafa;
     overflow: scroll;
     padding: 46px 40px;
   }
   
-  .messege {
+  .message {
     padding-bottom: 40px;
   }
-  .messege__upper-info {
+  .message__upper-info {
     display: flex;
     margin-bottom: 10px;
     &__talker{

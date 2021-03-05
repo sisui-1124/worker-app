@@ -1,6 +1,6 @@
-class CreateMesseges < ActiveRecord::Migration[5.0]
+class CreateMessages < ActiveRecord::Migration[5.0]
   def change
-    create_table :messeges do |t|
+    create_table : do |t|
       t.string :content
       t.string :image
       t.references :group, foreign_key: true
