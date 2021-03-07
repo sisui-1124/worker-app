@@ -5,8 +5,8 @@ class Group < ApplicationRecord
 
   validates :name, presence: true, uniqueness: true
 
-  def show_last_messege
-    if (last_messages = messages.last).present?
+  def show_last_message
+    if (last_message = messages.last).present?
       if last_message.content?
         last_message.content
       else
