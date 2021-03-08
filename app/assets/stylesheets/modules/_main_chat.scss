@@ -41,7 +41,7 @@
   }
   
   .messages {
-    height: calc(90vh - 190px);
+    height: calc(100vh - 190px);
     background-color: #fafafa;
     overflow: scroll;
     padding: 46px 40px;
@@ -106,7 +106,6 @@
   }
   
   .form__mask {
-    width: 100%;
     font-size: 1.0rem;
     cursor: pointer;
     position: relative;
