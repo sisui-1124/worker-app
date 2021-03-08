@@ -52,11 +52,11 @@ ja:
         subject: メールアドレス確認メール
       email_changed:
         greeting: こんにちは、%{recipient}様。
-        messege: あなたのメール変更（%{email}）のお知らせいたします。
+        message: あなたのメール変更（%{email}）のお知らせいたします。
         subject: メール変更完了。
       password_change:
         greeting: "%{recipient}様"
-        messege: パスワードが再設定されたことを通知します。
+        message: パスワードが再設定されたことを通知します。
         subject: パスワードの変更について
       reset_password_instructions:
         action: パスワード変更
@@ -69,7 +69,7 @@ ja:
         action: アカウントのロック解除
         greeting: "%{recipient}様"
         instruction: アカウントのロックを解除するには下のリンクをクリックしてください。
-        messege: ログイン失敗が繰り返されたため、アカウントはロックされています。
+        message: ログイン失敗が繰り返されたため、アカウントはロックされています。
         subject: アカウントの凍結解除について
     omniauth_callbacks:
       failure: "%{kind} アカウントによる認証に失敗しました。理由：（%{reason}）"
