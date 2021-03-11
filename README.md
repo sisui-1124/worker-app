@@ -5,7 +5,7 @@
 
 # 機能のご紹介
 ## トップ画面
- ![トップ](http://localhost:3000/)
+ ![トップ](http://localhost:3000/groups/5/messages)
 
 ## 新規登録画面
  ![ユーザー](https://gyazo.com/4b49ab86591d26d7e74803a473554991)
